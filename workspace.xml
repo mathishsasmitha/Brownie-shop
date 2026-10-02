@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9006159-a2b5-452c-855b-0aa5c71888d9" name="Changes" comment="update 1.1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AdminOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AdminOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AdminProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AdminProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/dao/OrderDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/dao/OrderDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/dao/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/dao/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/model/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/model/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brownieshop/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brownieshop/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/Order-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/order-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/Orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/Orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/customers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/customers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/customer/Checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/customer/Checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/customer/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/customer/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/customer/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/customer/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/orders/Myorders.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/orders/my-orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/orders/Order-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/orders/orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/products/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/products/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/products/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/products/list.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IT24101669&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/it24102407/sugerShop.git&quot;,
+    &quot;accountId&quot;: &quot;72a9a8c6-6213-4a5f-9ace-a5b6ade56858&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3BbrMiXak0u7rNpTqLtOoXCEbTO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BrownieShopApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mathish Sasmitha/Desktop/project/Y2 S2/IS project/dev 3.1/brownie-shop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="BrownieShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="brownie-shop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brownieshop.BrownieShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9006159-a2b5-452c-855b-0aa5c71888d9" name="Changes" comment="" />
+      <created>1774768565283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774768565283</updated>
+      <workItem from="1774768566414" duration="7399000" />
+      <workItem from="1774797966738" duration="3907000" />
+      <workItem from="1774801921102" duration="7077000" />
+      <workItem from="1774809516032" duration="1518000" />
+      <workItem from="1774811095761" duration="2014000" />
+      <workItem from="1774813150841" duration="3412000" />
+      <workItem from="1774817874870" duration="228000" />
+      <workItem from="1774835739876" duration="7838000" />
+      <workItem from="1774856914922" duration="8426000" />
+      <workItem from="1774874617453" duration="823000" />
+      <workItem from="1774886370327" duration="5396000" />
+      <workItem from="1774935807755" duration="388000" />
+      <workItem from="1774945774922" duration="1381000" />
+      <workItem from="1774975800576" duration="4479000" />
+      <workItem from="1775018902762" duration="5169000" />
+      <workItem from="1775107138232" duration="722000" />
+      <workItem from="1775114583625" duration="3224000" />
+      <workItem from="1775147227682" duration="5223000" />
+      <workItem from="1775187230280" duration="11360000" />
+      <workItem from="1775221529186" duration="4931000" />
+      <workItem from="1775274344223" duration="5429000" />
+      <workItem from="1775301397240" duration="739000" />
+      <workItem from="1775325146578" duration="2957000" />
+      <workItem from="1775370455171" duration="215000" />
+      <workItem from="1775456376811" duration="3774000" />
+      <workItem from="1775533017294" duration="2172000" />
+      <workItem from="1775540860752" duration="257000" />
+      <workItem from="1775541302454" duration="59000" />
+      <workItem from="1775642215346" duration="3079000" />
+      <workItem from="1775708070232" duration="2849000" />
+      <workItem from="1775737256222" duration="5650000" />
+      <workItem from="1775801505488" duration="5531000" />
+      <workItem from="1775879341356" duration="9007000" />
+      <workItem from="1776020363163" duration="1726000" />
+      <workItem from="1776056796343" duration="1601000" />
+      <workItem from="1776231941889" duration="2958000" />
+      <workItem from="1776319224427" duration="2101000" />
+      <workItem from="1776351934343" duration="1005000" />
+      <workItem from="1776407010611" duration="660000" />
+      <workItem from="1776451941063" duration="3414000" />
+      <workItem from="1776531383898" duration="1924000" />
+      <workItem from="1776598746749" duration="1870000" />
+      <workItem from="1776620911329" duration="3867000" />
+      <workItem from="1776665607808" duration="3007000" />
+      <workItem from="1776683271342" duration="1186000" />
+      <workItem from="1776709701052" duration="2762000" />
+      <workItem from="1776786443459" duration="1047000" />
+      <workItem from="1776834578487" duration="1219000" />
+      <workItem from="1776836446424" duration="1268000" />
+      <workItem from="1776856499755" duration="608000" />
+      <workItem from="1776857559827" duration="521000" />
+      <workItem from="1776868671187" duration="1909000" />
+      <workItem from="1776883284234" duration="46000" />
+      <workItem from="1776929053166" duration="501000" />
+      <workItem from="1776929711080" duration="409000" />
+      <workItem from="1777186201505" duration="3698000" />
+      <workItem from="1777204242673" duration="1756000" />
+      <workItem from="1777223550502" duration="1961000" />
+      <workItem from="1777226129910" duration="2882000" />
+      <workItem from="1777291391245" duration="10000" />
+      <workItem from="1777291481932" duration="170000" />
+      <workItem from="1777315821133" duration="5238000" />
+      <workItem from="1777351469413" duration="247000" />
+      <workItem from="1777352701845" duration="342000" />
+      <workItem from="1777353673668" duration="306000" />
+      <workItem from="1777356072916" duration="4170000" />
+      <workItem from="1777385286939" duration="7930000" />
+      <workItem from="1777436502515" duration="5659000" />
+      <workItem from="1780217833727" duration="165000" />
+      <workItem from="1784883013963" duration="1367000" />
+      <workItem from="1785837659380" duration="159000" />
+      <workItem from="1789535212490" duration="808000" />
+      <workItem from="1789554066442" duration="181000" />
+      <workItem from="1790919925224" duration="78000" />
+    </task>
+    <task id="LOCAL-00001" summary="update 1.0">
+      <option name="closed" value="true" />
+      <created>1774809189751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774809189751</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 1.1">
+      <option name="closed" value="true" />
+      <created>1774809273833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774809273833</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update 1.0" />
+    <MESSAGE value="update 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1.1" />
+  </component>
+</project>
